@@ -2,4 +2,15 @@
 # Date: 21/01/2022
 # File 011-command-ls.txt
 
+# ls - listing files
+#  OPTIONS
+# -l  - Long listing: "use a long listing format" (from the documentation);
+#  outputs informations about the file like date, permissions.
+# -a  - All files/directories: includes also files that starts with '.'.
+# -F  - indicator: appends an indicator (/) to show if it is a file,
+# executable file, a directory, a link, a socket..
+#
 
+ls -laF
+
+#end of file
