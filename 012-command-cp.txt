@@ -1,0 +1,12 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 21/01/2022
+# File 012-command-cp.txt
+#
+# cp - copy files and directories
+# options
+# -r: it copies subdirectories (recursively) too
+# mandatory arguments <>
+#<from> :directory to copy from
+#<to>: directory where to copy
+#
+# end of file
