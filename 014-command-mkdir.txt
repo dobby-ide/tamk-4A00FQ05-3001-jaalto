@@ -1,0 +1,29 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 21/01/2022
+# File 011-command-ls.txt
+#
+# mkdir - make directories
+# it does create one or more directories (subdirectories)
+#  
+# Option
+# -p: creates subdirectories without waving an error if subdirectories already exist
+#
+# Mandatory arguments
+#
+# ~/tmp/test/1/2/3: subdirectories are now created under "HOME", 
+# the root directory because of tilde sign. so now tree looks like
+#   
+#  .
+#  |
+#  |
+#  |_tmp
+#    |___test   
+#         |__1
+#            |__2
+#               |_3
+#
+#
+#
+#
+#end of file
+
