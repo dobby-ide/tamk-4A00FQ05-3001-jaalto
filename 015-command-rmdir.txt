@@ -1,0 +1,17 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 21/01/2022
+# File 015-command-rmdir.txt
+#  
+#  rmdir  - Remove empty directories
+#
+#  Options
+#  
+#  -v: verbose, it prints a line of success for each deletion
+#  -p: removes all the subdirectories and the directories 
+#      included in the path specified (and not only the subdirectories)
+#  
+#  cd ~/tmp: calls the tmp directory under "home" directory
+#  rmdir -vp test/1/2/3: deletes test, 1, 2, 3 (sub) directories if they 
+#  are empty.
+#
+#end of file
