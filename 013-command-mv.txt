@@ -1,0 +1,22 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 21/01/2022
+# File 013-command-mv.txt
+#
+# mv - moves or rename a file
+#
+# Options 
+# -v: verbose, it explains, prints on screen what it did
+# after command execution: mv -v test.txt renamed.txt 
+# will print on screen 'test.txt' -> 'renamed.txt'
+# -i: if a file exist with the same name as the name chosen for the file 
+# it will prompt a question before overriding.
+# 
+# Mandatory arguments
+# <from>: the name of the file to move or renamed
+# <to>: the new name of the file or the directory where the 
+# file needs to be moved
+#
+#
+#
+#
+# end of file
