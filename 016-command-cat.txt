@@ -1,0 +1,22 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 21/01/2022
+# File 016-command-cat.txt
+#
+#   cat - concatenate, print on screen content of file(s), append,
+#   view multiple file, create a file
+#
+#  Options
+#
+#   -E: display the end of a line
+#   -T: display tabs space
+#   -v: "show non-printing informations"
+#
+# Mandatory arguments: <filename> the file or files you want to print, concatenate etc.
+#
+#
+#
+#
+#
+#
+#
+#end of file
