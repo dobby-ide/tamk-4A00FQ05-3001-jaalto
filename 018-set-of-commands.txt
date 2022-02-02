@@ -1,0 +1,21 @@
+# author: Fabio Privitera
+# date: 02/02/2022
+# file: 018-set-of-commands.txt
+#
+#  mkdir ~/tmp
+#  cd temp
+#  touch New.java
+#  mv New.java Code.java
+#  mkdir -p backup && cp Code.java backup/
+#  mkdir src/
+#  mv Code.java src/
+#  rm -r backup/
+#
+#
+#
+#
+#
+#
+#
+#
+#end of file
