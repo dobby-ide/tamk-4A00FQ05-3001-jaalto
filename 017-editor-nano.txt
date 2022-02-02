@@ -1,0 +1,28 @@
+# author: Fabio Privitera
+# name of file: 017-editor-nano.txt
+# date: 02-02-2022
+#
+#  Options:
+#
+#   nano -T <value>: it sets the size of a TAB, with <value> 
+#   being a number between 1 and 8.
+#
+#   nano -E:  it converts tab entered in spaces 
+#   (so they are read like multiple spaces)
+#
+#   nano -W: wordbounds, treats punctuation as part of a word 
+#
+#  Command inside the editor:
+#
+#   C-k: cut the line if text is there (clear line by cutting the text)
+#        and cut selected text
+#   C-u: paste  
+#   C-g: opens the help page
+#   M-c: shows the position of the cursor
+#   M-i: auto-indentation
+#   M-x: enable/disable the help mode
+#
+#
+#
+#end of file
+#################
