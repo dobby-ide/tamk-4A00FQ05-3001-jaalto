@@ -1,0 +1,37 @@
+#author: Fabio Privitera
+#date: 02/02/2022
+#filename: 019-one-dir-for-each-project.txt
+#
+#    cd ~/
+#    mkdir -p work/{project1/{doc,src},project2/{doc,src}}
+#    nano work/project1/doc/manual.txt 
+#      work/project1/src/One.java 
+#      work/project2/doc/manual.txt 
+#      work/project2/src/Two.java
+#      work/project1/README
+#      work/project2/README
+#    C-o(enter) C-x  (to save and exit the file just created,
+#                     until all the files have been saved (6))
+#
+#
+#
+#
+#
+#
+#
+#end of file
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+##
