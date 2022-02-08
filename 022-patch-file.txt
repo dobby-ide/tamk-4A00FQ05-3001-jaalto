@@ -1,0 +1,24 @@
+# author: Fabio Privitera
+# date: 08/02/2022
+# filename: 022-patch-file.txt
+# 
+# COMMANDs used:
+# $ cat project1/src/One.java.patch
+#  1c1
+#  < Hello  this is a change
+#  ---
+#  >
+#  explanation:
+#    1c1: the first number (1) is the line where there is changes in the
+#          older version. Letter a means "add". Other special letters used
+#          are c(change) and d(delete).
+#         the second number is the line where the file changed in the 
+#         new file.
+#  possible options:
+#    -c[context mode]
+#    -u[unified]
+#    -i[case insensitive]
+#
+#end of file
+########
+
