@@ -1,5 +1,5 @@
 # Author: Fabio Privitera <fabio.privitera@tuni.fi>
-# Date: 2022/02/02
+# Date: 2022-02-02
 # File: 019-one-dir-for-each-project.txt
 #
 #    cd ~/
