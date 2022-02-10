@@ -1,6 +1,6 @@
-# author: Fabio Privitera
-# date: 08/02/2022
-# filename: 021-difference.txt
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022/02/04
+# File: 021-difference.txt
 # 
 # COMMANDs used:
 #

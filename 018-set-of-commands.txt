@@ -1,6 +1,6 @@
-# author: Fabio Privitera
-# date: 02/02/2022
-# file: 018-set-of-commands.txt
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-02
+# File: 018-set-of-commands.txt
 #
 #  mkdir ~/tmp
 #  cd temp

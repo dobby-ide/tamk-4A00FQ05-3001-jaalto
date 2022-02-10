@@ -1,6 +1,6 @@
-# author: Fabio Privitera
-# name of file: 017-editor-nano.txt
-# date: 02-02-2022
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-22
+# File: 017-editor-nano.txt
 #
 #  Options:
 #

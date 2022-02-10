@@ -1,6 +1,6 @@
 # Author: Fabio Privitera <fabio.privitera@tuni.fi>
-# Date: 21/01/2022
-# File 016-command-cat.txt
+# Date: 2022-01-22
+# File: 016-command-cat.txt
 #
 #   cat - concatenate, print on screen content of file(s), append,
 #   view multiple file, create a file

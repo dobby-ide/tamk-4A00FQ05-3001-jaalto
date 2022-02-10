@@ -1,6 +1,6 @@
 # Author: Fabio Privitera <fabio.privitera@tuni.fi>
-# Date: 21/01/2022
-# File 015-command-rmdir.txt
+# Date: 2022-01-22
+# File: 015-command-rmdir.txt
 #  
 #  rmdir  - Remove empty directories
 #

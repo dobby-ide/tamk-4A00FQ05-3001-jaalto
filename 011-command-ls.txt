@@ -1,6 +1,6 @@
 # Author: Fabio Privitera <fabio.privitera@tuni.fi>
-# Date: 21/01/2022
-# File 011-command-ls.txt
+# Date: 2022-01-21
+# File: 011-command-ls.txt
 
 # ls - listing files
 #  OPTIONS

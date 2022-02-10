@@ -1,6 +1,6 @@
 # Author: Fabio Privitera <fabio.privitera@tuni.fi>
-# Date: 21/01/2022
-# File 012-command-cp.txt
+# Date: 2022-01-21
+# File: 012-command-cp.txt
 #
 # cp - copy files and directories
 # options
