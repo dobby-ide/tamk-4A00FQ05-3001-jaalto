@@ -3,18 +3,41 @@
 # File: 022-patch-file.txt
 # 
 # COMMANDs used:
-# $ cat project1/src/One.java.patch
-#  1c1
-#  < Hello  this is a change
-#  ---
-#  >
+#
+#   cat One.java.patch
+#
+# Output:  
+#
+#  --- One.java.orig       2022-02-15 20:51:40.109883700 +0200
+#+++ One.java    2022-02-16 08:43:53.756653400 +0200
+#@@ -1,4 +1,4 @@
+# DESCRIPTION
+#-class homework (homework){
+#-       return homework
+#+function homework (String homework){
+#+       system.out.println(homework);
+# };
+#
+#
+#
+#  
 #  explanation:
-#    1c1: the first number (1) is the line where there is changes in the
-#          older version. Letter a means "add". Other special letters used
-#          are c(change) and d(delete).
-#         the second number is the line where the file changed in the 
-#         new file.
-#  possible options:
+#    - sign refers to the old file, + sign refers to the new file
+#    between @@ @@ we have the header that tells 
+#    clearly how many lines are shown of the (-1) original file
+#    this number can change if there are many files involved
+#    in the diff taken.
+#    so in this case, 4 lines are shown of the original file,
+#    and 4 lines about the new file.
+#
+#
+#
+#
+#
+#
+#
+#
+# possible options:
 #    -c[context mode]
 #    -u[unified]
 #    -i[case insensitive]
