@@ -1,0 +1,31 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-19
+# File: 032-learn-to-import-a-project.txt
+# 
+#
+# after creating the right files and folder tree
+# in parent folder of the project use:
+#  	git init
+#       git add . (will add all files and folders recursively)
+#       git commit -m "initial commit"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+############
+#
+#end of file
