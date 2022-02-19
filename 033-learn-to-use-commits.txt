@@ -1,0 +1,40 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-19
+# File: 033-learn-to-use-commits.txt
+#
+# after all the commit operations on single file
+# running git log --oneline:
+#
+#
+# 262f2ad (HEAD -> master) src/Program.java: created
+# c8cfa47 src/Class1.java: declaring HashMap myHashMap
+# 9056598 src/Class1.java: importing HashMap
+# 8172e08 src/Class1.java: number variable declared 
+#                          and initialized only in constructor
+# 6bdd794 src/Class1.java: class variables access modifier changed to private
+# bfc3b46 src/Class1.java: main subroutine add
+# 30c4f32 src/Class1.java: String text sets to empty string
+# 78c50b7 Class1.java:function double add
+# 91de4fa initial commit
+#
+# A general syntax corrections was run in all java files after
+# that, and git add . added three .java files modified with 
+# commit message = "general syntax correction in .java files"
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+############
+#
+#end of file
