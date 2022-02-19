@@ -1,0 +1,51 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-19
+# File: 031-starting-git.txt
+#
+#  To start a git in a local folder where the project sits:
+#  command: git init
+#  This will create a .git folder with some subfolders
+#  The config file is under the .git directory
+#  Some directories are used to save the commits, which in order
+#  are meant to save the binary differences found from the initial 
+#  commit of the project and the newest commits and pushes
+#  Folders name are named such that the commits hash preceeded
+#  by the folder name can be found.
+#  
+#  Now we have three different level of configurations:
+#	System, Global, Local
+#	System: gGit/etc/gitconfig
+#       Global: (all the repositories will be affected)
+#       Local: in .git folder in the config file
+#
+#   To have a list of the configurations we simply type:
+#   git config --list --local
+#
+#   configuring Alias is a common practice:
+#   git config --global alias.last 'log -1 HEAD'
+#   it helps seeing the last commit sent
+#   git --global --unset alias.last (to remove the alias)
+#
+#   A) git config user.name "<your name>"
+#      git config user.email "<your_email>"
+#
+#   B) touch ~/.gitignore 
+#      git config --global core.excludesFile ~/.gitignore
+#      respectively creates and add the .gitignore file to config
+#      Editing gitignore to excludes filenames or specific file extensions:
+#      ignore all .jpg files
+#      *.jpg
+#   C)  branch alias: git config --global alias.b 'branch'
+#       commit alias: git config --global alias.ci 'commit'
+#       checkout alias: git config --global alias.co 'checkout'
+#       cherry-pick alias: git config --globale alias.cp 'cherry-pick'
+#       status alias: git config --global alias.st 'status --short --branch'
+#       edit: git config --global alias.edit 'commit --amend'
+#
+#
+#
+#
+#
+#
+#end of file
+####
