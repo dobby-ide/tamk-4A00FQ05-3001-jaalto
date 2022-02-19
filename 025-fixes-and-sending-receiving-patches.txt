@@ -1,0 +1,19 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-16
+# File: 025-fixes-and-sending-receiving-patches.txt
+#
+# work was done teaming with Ankita, as a A DEVELOPER I did:
+# cp file.txt file.txt.orig
+# nano file.txt (modifying)
+# diff -u file.txt.orig file.txt > file.txt.patch
+# send file.txt.patch to Ankita
+#   
+#
+# As a B DEVELOPER I did:
+# send file.txt to Ankita
+# received the file.txt.patch
+# applied the patch: patch file.txt < file.txt.patch
+#
+#
+#end of file
+####
