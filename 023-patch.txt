@@ -1,0 +1,33 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-15
+# File: 023-patch.txt
+#
+#
+#  Command:
+#   
+#   patch -R One.java < One.java.patch
+#  
+#  Explanation:
+#  
+#    running this command will return the new file into the original file
+#
+#   Command:
+#    diff -bwu One.java.orig One.java
+#    now it shows no differences (because file was "unpatched")
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#end of file
+########
+
