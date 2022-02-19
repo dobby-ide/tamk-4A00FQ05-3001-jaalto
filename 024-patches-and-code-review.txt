@@ -1,0 +1,19 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-16
+# File: 024-patches-and-code-review.txt
+#
+#
+#  https://www.pathofexile.com/forum/view-forum/patch-notes
+#
+#  https://forums.revora.net/forum/2680-patch-development/
+#
+#  https://forum.deadbydaylight.com/en/kb/patchnotes  
+#
+#
+#
+#
+#
+#
+#
+#end of file
+####
