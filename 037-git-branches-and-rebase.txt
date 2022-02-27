@@ -1,0 +1,31 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-19
+# File: 037-git-branchese-and-rebase.txt
+# 
+#  REbasing a branch puts your local branch to the same commits 
+#  where the latest commits are in the repo
+#  so it moves the latest commit on top of that branch in 
+#  order for the branch to continue its own commit history:
+#  
+#  supposing master is ahead and devel has some commits on its own branch:
+#  on devel: git rebase master would put devel to the same commits
+#  history of master, plus having contnuing its own developing
+#  commits.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+############
+#
+#end of file
