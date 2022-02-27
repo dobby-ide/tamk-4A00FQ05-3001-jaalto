@@ -1,0 +1,31 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-27
+# File: 036-git-branches-and-creating-them.txt
+# 
+#  commands:
+#    git checkout devel
+#    git branch feature-1
+#    git checkout feature-1
+#    git add <filename>
+#    git commit -m "some text"
+#    git checkout devel
+#    git merge feature-1
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+############
+#
+#end of file
