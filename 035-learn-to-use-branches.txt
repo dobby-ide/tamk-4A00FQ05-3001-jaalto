@@ -1,0 +1,32 @@
+# Author: Fabio Privitera <fabio.privitera@tuni.fi>
+# Date: 2022-02-27
+# File: 035-learn-to-use-branches.txt
+# 
+#  
+#  
+#  A) git branch
+#
+#  B) git checkout devel
+#     git merge master
+#
+#  you do not want to work in master because in master you only want 
+#  the release versions of the softwareo
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+############
+#
+#end of file
